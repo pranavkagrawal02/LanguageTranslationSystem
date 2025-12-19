@@ -1,0 +1,14 @@
+How_to_run_marian_tranaslator_model.txt
+
+▶️ RUN AGAIN (THIS WILL WORK)
+cd C:\LanguageTranslationSystem
+python src/model_1_inference_marianinference_marian.py
+
+
+The first run will download the Marian model (~300–500MB).
+Then you’ll see:
+
+Language Translation System
+1. English → Hindi
+2. Hindi → English
+Select option (1/2):

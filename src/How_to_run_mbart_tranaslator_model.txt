@@ -1,0 +1,2 @@
+cd C:\LanguageTranslationSystem
+python src/model_2_inference_mbart.py

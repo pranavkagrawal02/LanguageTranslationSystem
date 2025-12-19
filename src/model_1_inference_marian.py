@@ -5,7 +5,7 @@ import os
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, PROJECT_ROOT)
 
-from models.marian_translator import MarianTranslator
+from models.model_1_marian_translator import MarianTranslator
 
 
 def main():
