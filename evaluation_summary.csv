@@ -1,0 +1,3 @@
+Model,Cosine_Similarity,Length_Ratio,Runtime_sec,Overall_Score
+M2M-100,0.527,1.048,1.892,0.5699623678646935
+MarianMT,0.51,1.095,0.242,1.6361694214876035

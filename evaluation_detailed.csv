@@ -1,0 +1,7 @@
+Model,Source,Output,Reference,Cosine_Similarity,Length_Ratio,Runtime_sec
+MarianMT,India is a diverse country with many languages.,भारत कई भाषाओं के साथ भिन्न देश है.,भारत एक विविध भाषाओं वाला देश है।,0.33609692727625756,1.1428571428571428,0.23553061485290527
+MarianMT,Machine translation helps break language barriers.,मशीन अनुवाद भाषा बाधाओं को तोड़ने में मदद करता है.,मशीन अनुवाद भाषा बाधाओं को तोड़ने में मदद करता है।,1.0,1.0,0.26848793029785156
+MarianMT,Artificial intelligence is transforming education.,कलापूर्ण विवेक शिक्षा को परिवर्तित कर रहा है।,कृत्रिम बुद्धि शिक्षा को बदल रही है।,0.19431434016858148,1.1428571428571428,0.22127652168273926
+M2M-100,India is a diverse country with many languages.,भारत कई भाषाओं के साथ एक अलग देश है।,भारत एक विविध भाषाओं वाला देश है।,0.5797386715376658,1.2857142857142858,1.615429401397705
+M2M-100,Machine translation helps break language barriers.,मशीन अनुवाद भाषा बाधाओं को तोड़ने में मदद करता है।,मशीन अनुवाद भाषा बाधाओं को तोड़ने में मदद करता है।,1.0,1.0,2.0991687774658203
+M2M-100,Artificial intelligence is transforming education.,आर्टिफिशियल इंटेलिजेंस शिक्षा को बदलता है।,कृत्रिम बुद्धि शिक्षा को बदल रही है।,0.0,0.8571428571428571,1.9626049995422363

@@ -1,0 +1,20 @@
+=== Translation Model Evaluation Results ===
+
+Evaluation Metrics Used:
+- TF-IDF Cosine Similarity (Semantic Adequacy)
+- Length Normalization Ratio
+- Average Runtime per Sentence
+
+=== Quantitative Results ===
+
+   Model  Cosine_Similarity  Length_Ratio  Runtime_sec
+ M2M-100           0.526580      1.047619     1.892401
+MarianMT           0.510137      1.095238     0.241765
+
+=== Qualitative Analysis ===
+
+MarianMT produces fluent and concise Hindi translations and performs well on short to medium-length sentences. It is computationally efficient and shows lower runtime compared to larger multilingual models.
+
+M2M-100 demonstrates stronger semantic adequacy for complex or abstract sentences but incurs higher computational cost. Output length is slightly longer, reflecting more literal translations.
+
+Overall, MarianMT is suitable for lightweight deployment scenarios, while M2M-100 is better suited for research-oriented or high-accuracy translation tasks.

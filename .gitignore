@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Data & Models (CRITICAL)
+data/
+data/raw/
+data/processed/
+*.zip
+*.tar
+*.gz
+*.pt
+*.bin
+*.ckpt
+*.model
+
+
+# Audio / Video
+*.wav
+*.mp3
+*.mp4
+*.m4a
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

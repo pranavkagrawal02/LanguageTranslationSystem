@@ -1,0 +1,6 @@
+
+dHI → EN Translation Evaluation Results
+
+           Model  Cosine_Similarity  Length_Ratio  Runtime_sec
+ M2M-100 (HI→EN)              0.846         1.056        1.230
+MarianMT (HI→EN)              0.584         1.000        0.199
