@@ -79,7 +79,8 @@ Model architecture, design choices, and comparison rationale are explained in de
 
 2. Open and run:
 
-  Language_Translation_System.ipynb
+  ```bash
+   Language_Translation_System.ipynb
 
 3. Execute cells top-to-bottom using sample inputs provided in the notebook.
 
