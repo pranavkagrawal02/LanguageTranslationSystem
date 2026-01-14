@@ -87,14 +87,16 @@ Model architecture, design choices, and comparison rationale are explained in de
    pip install -r requirements.txt
 
 2. Open and run:
-
-  ```bash
+    ```bash
    Language_Translation_System.ipynb
-  ```bash
 
 3. Execute cells top-to-bottom using sample inputs provided in the notebook.
 
-🏁 Conclusion
+
+## 🏁 Conclusion
 
 This project demonstrates how modern NLP models can be leveraged for practical translation tasks while highlighting their strengths, limitations, and ethical considerations.
 Future improvements include fine-tuning, expanded language support, and real-time deployment.
+
+  
+
