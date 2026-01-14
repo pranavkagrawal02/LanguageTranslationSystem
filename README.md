@@ -25,14 +25,23 @@ The objective of this project is to design, compare, and evaluate multiple pretr
 ---
 
 ## 📂 Repository Structure
+
 ├── Language_Translation_System.ipynb # PRIMARY evaluation artifact
+
 ├── models/ # Model-specific inference scripts
+
 ├── preprocessing/ # Data preprocessing notebook
+
 ├── src/ # Inference utilities and run instructions
+
 ├── evaluation_.csv # Quantitative evaluation results
+
 ├── evaluated_result.txt # Sample translation outputs
+
 ├── requirements.txt # Core dependencies
+
 ├── requirements_freeze.txt # Full environment snapshot
+
 └── README.md
 
 
@@ -82,9 +91,8 @@ Model architecture, design choices, and comparison rationale are explained in de
   ```bash
    Language_Translation_System.ipynb
 
+
 3. Execute cells top-to-bottom using sample inputs provided in the notebook.
-
-
 
 🏁 Conclusion
 
