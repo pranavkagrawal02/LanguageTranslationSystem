@@ -8,8 +8,8 @@ Evaluation Metrics Used:
 === Quantitative Results ===
 
    Model  Cosine_Similarity  Length_Ratio  Runtime_sec
- M2M-100           0.526580      1.047619     1.892401
-MarianMT           0.510137      1.095238     0.241765
+ M2M-100           0.526580      1.047619     1.766885
+MarianMT           0.510137      1.095238     0.231925
 
 === Qualitative Analysis ===
 

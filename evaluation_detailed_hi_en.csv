@@ -1,7 +1,7 @@
 Model,Hindi_Input,English_Output,Reference,Cosine_Similarity,Length_Ratio,Runtime_sec
-MarianMT (HI→EN),भारत एक बहुभाषी देश है।,India is a foreign country.,India is a multilingual country.,0.6029748160380572,1.0,0.20959019660949707
-MarianMT (HI→EN),मशीन अनुवाद भाषा बाधाओं को तोड़ने में मदद करता है।,The machine helps break language barriers.,Machine translation helps break language barriers.,0.7168117414430619,1.0,0.1869802474975586
-MarianMT (HI→EN),कृत्रिम बुद्धिमत्ता शिक्षा को बदल रही है।,Completating intelligence education is changing.,Artificial intelligence is transforming education.,0.4316134189707515,1.0,0.20157337188720703
-M2M-100 (HI→EN),भारत एक बहुभाषी देश है।,India is a multilingual country.,India is a multilingual country.,1.0,1.0,1.2369999885559082
-M2M-100 (HI→EN),मशीन अनुवाद भाषा बाधाओं को तोड़ने में मदद करता है।,Machine translation helps break the language barriers.,Machine translation helps break language barriers.,0.8673636849609287,1.1666666666666667,1.3034331798553467
-M2M-100 (HI→EN),कृत्रिम बुद्धिमत्ता शिक्षा को बदल रही है।,Artificial intelligence is changing education.,Artificial intelligence is transforming education.,0.6694188517266485,1.0,1.1510255336761475
+MarianMT (HI→EN),भारत एक बहुभाषी देश है।,India is a foreign country.,India is a multilingual country.,0.6029748160380572,1.0,0.2572975158691406
+MarianMT (HI→EN),मशीन अनुवाद भाषा बाधाओं को तोड़ने में मदद करता है।,The machine helps break language barriers.,Machine translation helps break language barriers.,0.7168117414430619,1.0,0.19719982147216797
+MarianMT (HI→EN),कृत्रिम बुद्धिमत्ता शिक्षा को बदल रही है।,Completating intelligence education is changing.,Artificial intelligence is transforming education.,0.4316134189707515,1.0,0.23226642608642578
+M2M-100 (HI→EN),भारत एक बहुभाषी देश है।,India is a multilingual country.,India is a multilingual country.,1.0,1.0,1.2194395065307617
+M2M-100 (HI→EN),मशीन अनुवाद भाषा बाधाओं को तोड़ने में मदद करता है।,Machine translation helps break the language barriers.,Machine translation helps break language barriers.,0.8673636849609287,1.1666666666666667,1.275320053100586
+M2M-100 (HI→EN),कृत्रिम बुद्धिमत्ता शिक्षा को बदल रही है।,Artificial intelligence is changing education.,Artificial intelligence is transforming education.,0.6694188517266485,1.0,1.0760979652404785
